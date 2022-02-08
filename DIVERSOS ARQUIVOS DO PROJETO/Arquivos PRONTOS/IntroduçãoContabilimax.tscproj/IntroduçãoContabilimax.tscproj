@@ -258,30 +258,6 @@
     },
     {
       "id" : 11,
-      "src" : "Rec 02-02-22(2).trec",
-      "rect" : [0, 0, 1919, 976],
-      "lastMod" : "20220202T205514",
-      "loudnessNormalization" : true,
-      "sourceTracks" : [
-        {
-          "range" : [0, 277],
-          "type" : 0,
-          "editRate" : 30,
-          "trackRect" : [0, 0, 1919, 976],
-          "sampleRate" : 29,
-          "bitDepth" : 0,
-          "numChannels" : 0,
-          "integratedLUFS" : 100.0,
-          "peakLevel" : -1.0,
-          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
-        }
-      ],
-      "metadata" : {
-        "timeAdded" : "20220203T125820.828415"
-      }
-    },
-    {
-      "id" : 12,
       "src" : "Rec 02-02-22(4).trec",
       "rect" : [0, 0, 1919, 976],
       "lastMod" : "20220202T205759",
@@ -305,7 +281,7 @@
       }
     },
     {
-      "id" : 13,
+      "id" : 12,
       "src" : "Rec 02-03-22(2).trec",
       "rect" : [0, 0, 1923, 1079],
       "lastMod" : "20220203T181405",
@@ -329,7 +305,7 @@
       }
     },
     {
-      "id" : 14,
+      "id" : 13,
       "src" : "Rec 02-03-22(6).trec",
       "rect" : [0, 0, 1911, 1000],
       "lastMod" : "20220203T184256",
@@ -353,7 +329,7 @@
       }
     },
     {
-      "id" : 15,
+      "id" : 14,
       "src" : "Rec 02-03-22(7).trec",
       "rect" : [0, 0, 1911, 1000],
       "lastMod" : "20220203T184329",
@@ -377,7 +353,7 @@
       }
     },
     {
-      "id" : 16,
+      "id" : 15,
       "src" : "Rec 02-03-22(9).trec",
       "rect" : [0, 0, 1909, 976],
       "lastMod" : "20220203T185135",
@@ -401,7 +377,7 @@
       }
     },
     {
-      "id" : 17,
+      "id" : 16,
       "src" : "Codes - 23355.mp4",
       "rect" : [0, 0, 1280, 720],
       "lastMod" : "20220203T190529",
@@ -437,7 +413,7 @@
       }
     },
     {
-      "id" : 18,
+      "id" : 17,
       "src" : "Video - 26537.mp4",
       "rect" : [0, 0, 1280, 720],
       "lastMod" : "20220203T190439",
@@ -473,7 +449,7 @@
       }
     },
     {
-      "id" : 19,
+      "id" : 18,
       "src" : "Fast Typing - 1656.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220203T191121",
@@ -497,43 +473,7 @@
       }
     },
     {
-      "id" : 20,
-      "src" : "Space Travel - 5.mp4",
-      "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220203T191146",
-      "loudnessNormalization" : true,
-      "sourceTracks" : [
-        {
-          "range" : [0, 3000],
-          "type" : 0,
-          "editRate" : 600,
-          "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : 30,
-          "bitDepth" : 24,
-          "numChannels" : 0,
-          "integratedLUFS" : 100.0,
-          "peakLevel" : -1.0,
-          "metaData" : ""
-        },
-        {
-          "range" : [0, 3289],
-          "type" : 2,
-          "editRate" : 600,
-          "trackRect" : [0, 0, 0, 0],
-          "sampleRate" : 48000,
-          "bitDepth" : 16,
-          "numChannels" : 2,
-          "integratedLUFS" : 0.0,
-          "peakLevel" : 0.0,
-          "metaData" : ""
-        }
-      ],
-      "metadata" : {
-        "timeAdded" : "20220203T192457.100342"
-      }
-    },
-    {
-      "id" : 21,
+      "id" : 19,
       "src" : "video.mp4",
       "rect" : [0, 0, 3840, 2160],
       "lastMod" : "20220203T194313",
@@ -557,7 +497,7 @@
       }
     },
     {
-      "id" : 22,
+      "id" : 20,
       "src" : "production ID_4465903.mp4",
       "rect" : [0, 0, 3840, 2160],
       "lastMod" : "20220203T194614",
@@ -581,7 +521,7 @@
       }
     },
     {
-      "id" : 23,
+      "id" : 21,
       "src" : "pexels-vitaliy-izonin-9693520.mp4",
       "rect" : [0, 0, 3840, 2160],
       "lastMod" : "20220203T195432",
@@ -606,7 +546,7 @@
     }
   ],
   "timeline" : {
-    "id" : 24,
+    "id" : 22,
     "sceneTrack" : {
       "scenes" : [
         {
@@ -616,7 +556,7 @@
                 "trackIndex" : 0,
                 "medias" : [
                   {
-                    "id" : 25,
+                    "id" : 23,
                     "_type" : "AMFile",
                     "src" : 2,
                     "trackNumber" : 0,
@@ -646,7 +586,7 @@
                     }
                   },
                   {
-                    "id" : 26,
+                    "id" : 24,
                     "_type" : "AMFile",
                     "src" : 2,
                     "trackNumber" : 0,
@@ -681,7 +621,7 @@
                 "trackIndex" : 1,
                 "medias" : [
                   {
-                    "id" : 27,
+                    "id" : 25,
                     "_type" : "AMFile",
                     "src" : 1,
                     "trackNumber" : 0,
@@ -724,7 +664,7 @@
                     }
                   },
                   {
-                    "id" : 28,
+                    "id" : 26,
                     "_type" : "AMFile",
                     "src" : 3,
                     "trackNumber" : 0,
@@ -783,7 +723,7 @@
                     }
                   },
                   {
-                    "id" : 29,
+                    "id" : 27,
                     "_type" : "AMFile",
                     "src" : 8,
                     "trackNumber" : 0,
@@ -842,7 +782,7 @@
                     }
                   },
                   {
-                    "id" : 30,
+                    "id" : 28,
                     "_type" : "AMFile",
                     "src" : 4,
                     "trackNumber" : 0,
@@ -900,7 +840,7 @@
                     }
                   },
                   {
-                    "id" : 31,
+                    "id" : 29,
                     "_type" : "AMFile",
                     "src" : 5,
                     "trackNumber" : 0,
@@ -958,7 +898,7 @@
                     }
                   },
                   {
-                    "id" : 32,
+                    "id" : 30,
                     "_type" : "AMFile",
                     "src" : 6,
                     "trackNumber" : 0,
@@ -1016,7 +956,7 @@
                     }
                   },
                   {
-                    "id" : 33,
+                    "id" : 31,
                     "_type" : "AMFile",
                     "src" : 9,
                     "trackNumber" : 0,
@@ -1075,7 +1015,7 @@
                     }
                   },
                   {
-                    "id" : 34,
+                    "id" : 32,
                     "_type" : "AMFile",
                     "src" : 10,
                     "trackNumber" : 0,
@@ -1135,7 +1075,7 @@
                     }
                   },
                   {
-                    "id" : 35,
+                    "id" : 33,
                     "_type" : "AMFile",
                     "src" : 7,
                     "trackNumber" : 0,
@@ -1199,9 +1139,9 @@
                 "trackIndex" : 2,
                 "medias" : [
                   {
-                    "id" : 36,
+                    "id" : 34,
                     "_type" : "ScreenVMFile",
-                    "src" : 13,
+                    "src" : 12,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-03-22(2)"
@@ -1301,22 +1241,32 @@
                     }
                   },
                   {
-                    "id" : 37,
+                    "id" : 35,
                     "_type" : "ScreenVMFile",
-                    "src" : 14,
+                    "src" : 13,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-03-22(6)"
                     },
                     "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -60.4450000000002,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -45.0000000000001,
+                        "interp" : "eioe"
+                      },
                       "scale0" : {
                         "type" : "double",
-                        "defaultValue" : 0.976,
+                        "defaultValue" : 0.986,
                         "interp" : "eioe"
                       },
                       "scale1" : {
                         "type" : "double",
-                        "defaultValue" : 0.976,
+                        "defaultValue" : 0.986,
                         "interp" : "eioe"
                       },
                       "sourceCrop0" : {
@@ -1373,23 +1323,29 @@
                     "effects" : [
 
                     ],
-                    "start" : 880,
-                    "duration" : 1464,
+                    "start" : 815,
+                    "duration" : 1529,
                     "mediaStart" : 0,
-                    "mediaDuration" : 1464,
+                    "mediaDuration" : 1529,
                     "scalar" : 1,
                     "metadata" : {
                       "AutoAppliedSmartFocus" : "False",
-                      "clipSpeedAttribute" : false
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 976.0,
+                      "default-scale0" : 0.976,
+                      "default-scale1" : 0.976,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 1865.136
                     },
                     "animationTracks" : {
 
                     }
                   },
                   {
-                    "id" : 38,
+                    "id" : 36,
                     "_type" : "ScreenVMFile",
-                    "src" : 16,
+                    "src" : 15,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-03-22(9)"
@@ -1505,7 +1461,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 36
+                    "rightMedia" : 34
                   },
                   {
                     "name" : "Arrows",
@@ -1515,7 +1471,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 36
+                    "leftMedia" : 34
                   },
                   {
                     "name" : "Arrows",
@@ -1525,7 +1481,17 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 37
+                    "rightMedia" : 35
+                  },
+                  {
+                    "name" : "Arrows",
+                    "duration" : 186,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 35
                   },
                   {
                     "name" : "Arrows",
@@ -1535,8 +1501,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 37,
-                    "rightMedia" : 38
+                    "rightMedia" : 36
                   },
                   {
                     "name" : "Arrows",
@@ -1546,7 +1511,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 38
+                    "leftMedia" : 36
                   }
                 ]
               },
@@ -1554,9 +1519,9 @@
                 "trackIndex" : 3,
                 "medias" : [
                   {
-                    "id" : 39,
+                    "id" : 37,
                     "_type" : "ScreenVMFile",
-                    "src" : 15,
+                    "src" : 14,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-03-22(7)"
@@ -1627,9 +1592,9 @@
 
                     ],
                     "start" : 366,
-                    "duration" : 607,
+                    "duration" : 523,
                     "mediaStart" : 60,
-                    "mediaDuration" : 607,
+                    "mediaDuration" : 523,
                     "scalar" : 1,
                     "metadata" : {
                       "AutoAppliedSmartFocus" : "False",
@@ -1640,9 +1605,9 @@
                     }
                   },
                   {
-                    "id" : 40,
+                    "id" : 38,
                     "_type" : "VMFile",
-                    "src" : 19,
+                    "src" : 18,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Fast Typing - 1656"
@@ -1694,7 +1659,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 39
+                    "rightMedia" : 37
                   },
                   {
                     "name" : "Arrows",
@@ -1704,7 +1669,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 39
+                    "leftMedia" : 37
                   },
                   {
                     "name" : "Arrows",
@@ -1714,7 +1679,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 40
+                    "rightMedia" : 38
                   },
                   {
                     "name" : "Arrows",
@@ -1724,7 +1689,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 40
+                    "leftMedia" : 38
                   }
                 ]
               },
@@ -1732,13 +1697,13 @@
                 "trackIndex" : 4,
                 "medias" : [
                   {
-                    "id" : 41,
+                    "id" : 39,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 42,
+                          "id" : 40,
                           "_type" : "VMFile",
-                          "src" : 18,
+                          "src" : 17,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "Video - 26537"
@@ -1771,9 +1736,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 43,
+                          "id" : 41,
                           "_type" : "AMFile",
-                          "src" : 18,
+                          "src" : 17,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -1823,7 +1788,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 41
+                    "rightMedia" : 39
                   },
                   {
                     "name" : "Arrows",
@@ -1833,7 +1798,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 41
+                    "leftMedia" : 39
                   }
                 ]
               },
@@ -1841,9 +1806,9 @@
                 "trackIndex" : 5,
                 "medias" : [
                   {
-                    "id" : 44,
+                    "id" : 42,
                     "_type" : "VMFile",
-                    "src" : 23,
+                    "src" : 21,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "pexels-vitaliy-izonin-9693520"
@@ -1885,7 +1850,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 44
+                    "rightMedia" : 42
                   },
                   {
                     "name" : "Arrows",
@@ -1895,7 +1860,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 44
+                    "leftMedia" : 42
                   }
                 ]
               },
@@ -1903,13 +1868,13 @@
                 "trackIndex" : 6,
                 "medias" : [
                   {
-                    "id" : 45,
+                    "id" : 43,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 46,
+                          "id" : 44,
                           "_type" : "VMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "Codes - 23355"
@@ -1938,9 +1903,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 47,
+                          "id" : 45,
                           "_type" : "AMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -1986,7 +1951,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 45
+                    "rightMedia" : 43
                   },
                   {
                     "name" : "Arrows",
@@ -1996,7 +1961,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 45
+                    "leftMedia" : 43
                   }
                 ]
               },
@@ -2004,9 +1969,9 @@
                 "trackIndex" : 7,
                 "medias" : [
                   {
-                    "id" : 48,
+                    "id" : 46,
                     "_type" : "ScreenVMFile",
-                    "src" : 12,
+                    "src" : 11,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-02-22(4)"
@@ -2094,7 +2059,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 48
+                    "rightMedia" : 46
                   },
                   {
                     "name" : "Arrows",
@@ -2104,7 +2069,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 48
+                    "leftMedia" : 46
                   }
                 ]
               },
@@ -2112,9 +2077,9 @@
                 "trackIndex" : 8,
                 "medias" : [
                   {
-                    "id" : 49,
+                    "id" : 47,
                     "_type" : "ScreenVMFile",
-                    "src" : 12,
+                    "src" : 11,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-02-22(4)"
@@ -2202,7 +2167,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 49
+                    "rightMedia" : 47
                   },
                   {
                     "name" : "Arrows",
@@ -2212,7 +2177,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 49
+                    "leftMedia" : 47
                   }
                 ]
               },
@@ -2220,9 +2185,9 @@
                 "trackIndex" : 9,
                 "medias" : [
                   {
-                    "id" : 50,
+                    "id" : 48,
                     "_type" : "VMFile",
-                    "src" : 21,
+                    "src" : 19,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "video"
@@ -2255,9 +2220,9 @@
                     }
                   },
                   {
-                    "id" : 51,
+                    "id" : 49,
                     "_type" : "VMFile",
-                    "src" : 22,
+                    "src" : 20,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "production ID_4465903"
@@ -2299,7 +2264,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 50
+                    "rightMedia" : 48
                   },
                   {
                     "name" : "Arrows",
@@ -2309,8 +2274,8 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 50,
-                    "rightMedia" : 51
+                    "leftMedia" : 48,
+                    "rightMedia" : 49
                   },
                   {
                     "name" : "Arrows",
@@ -2320,7 +2285,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 51
+                    "leftMedia" : 49
                   }
                 ]
               },
@@ -2328,9 +2293,9 @@
                 "trackIndex" : 10,
                 "medias" : [
                   {
-                    "id" : 52,
+                    "id" : 50,
                     "_type" : "ScreenVMFile",
-                    "src" : 16,
+                    "src" : 15,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "Rec 02-03-22(9)"
@@ -2446,7 +2411,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 52
+                    "rightMedia" : 50
                   },
                   {
                     "name" : "Arrows",
@@ -2456,7 +2421,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 52
+                    "leftMedia" : 50
                   }
                 ]
               }            ]
@@ -2616,9 +2581,10 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\User2\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\IntroduçãoContabilimax1aa2f0ae.autosave.tscproj",
+    "AutoSaveFile" : "",
     "CanvasZoom" : 26,
     "Date" : "2022-02-01 03:10:07 ",
+    "Fit" : 1,
     "IsAutoSave" : false,
     "IsStandalone" : true,
     "Language" : "PTB",
